@@ -6,6 +6,8 @@ dependencies = [
     "httpx>=0.28.1",
     "pandas>=2.2.3",
     "polars>=1.26.0",
+    "pyarrow>=19.0.1",
+    "pydantic>=2.11.2",
 ]
 
 [dependency-groups]
